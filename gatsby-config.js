@@ -57,7 +57,7 @@ module.exports = {
         description: metaConfig.description,
         lang: `en`,
         display: `standalone`,
-        start_url: `/`,
+        start_url: `https://joshuagermany.github.io`,
         icon: `static/favicon.png`,
       },
     },
